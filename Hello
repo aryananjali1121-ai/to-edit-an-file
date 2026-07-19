@@ -1,6 +1,6 @@
 public class Hello{
 public static void main (String args[]){
-System.out.println("Hello Ananyaa);
-System.out.println("U want tiramesu right");
+System.out.println("Hello Shreya);
+System.out.println("Wanna go for spider man brand new day??");
 }
 }
